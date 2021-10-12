@@ -1,3 +1,3 @@
 # Deep_learning
 
-## DLCV folder is the origin file for the homework last year
+## DLCV_HW folder contain the origin file for the homework last year
